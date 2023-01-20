@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+**Lia Domke** (she/her), PhD candidate at **University of Alaska Fairbanks** based in Juneau, AK 
+
+Big fan of studying nearshore fishes 🐟 and their habitats 🌱 using all kinds of approaches: drones 🛰️, eDNA 🧬, and beach seines 🚣
 <!--
 **lkdomke/lkdomke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
